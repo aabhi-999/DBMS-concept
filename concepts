@@ -1,1 +1,21 @@
 ///   imortant dbms concept
+1. What is SQL? Difference between SQL and NoSQL.
+2. What are primary key and foreign key?
+3. Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN.
+4. What is normalization? Explain 1NF, 2NF, 3NF.
+5. What is denormalization?
+6. Difference between WHERE and HAVING.
+7. What are aggregate functions (COUNT, SUM, AVG, MAX, MIN)?
+8. What is GROUP BY?
+9. What is a subquery?
+10. Difference between DELETE, TRUNCATE, DROP.
+11. What is an index? Types of indexes.
+12. What is a view?
+13. What are ACID properties?
+14. What is a transaction?
+15. Difference between clustered and non-clustered index.
+16. What is a stored procedure?
+17. What is a trigger?
+18. What is UNION vs UNION ALL?
+19. What is the difference between CHAR and VARCHAR?
+20. Write SQL query to find the second highest salary.
