@@ -6,7 +6,7 @@
 5. What is denormalization?  
 6. Difference between WHERE and HAVING.
 7. What are aggregate functions (COUNT, SUM, AVG, MAX, MIN)?
-8. What is GROUP BY?
+8. What is GROUP BY? 
 9. What is a subquery?
 10. Difference between DELETE, TRUNCATE, DROP.
 11. What is an index? Types of indexes.
