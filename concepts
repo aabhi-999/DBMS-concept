@@ -3,7 +3,7 @@
 2. What are primary key and foreign key?
 3. Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN.
 4. What is normalization? Explain 1NF, 2NF, 3NF.
-5. What is denormalization?
+5. What is denormalization? 
 6. Difference between WHERE and HAVING.
 7. What are aggregate functions (COUNT, SUM, AVG, MAX, MIN)?
 8. What is GROUP BY?
