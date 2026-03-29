@@ -1,7 +1,7 @@
 ///   imortant dbms concept
 1. What is SQL? Difference between SQL and NoSQL.
 2. What are primary key and foreign key?
-3. Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN.
+3. Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN. 
 4. What is normalization? Explain 1NF, 2NF, 3NF.
 5. What is denormalization?  
 6. Difference between WHERE and HAVING.
