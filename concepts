@@ -1,4 +1,6 @@
-///   imortant dbms concept
+ ---------------------->           Imortant dbms concept        <---------------------
+
+
 1. What is SQL? Difference between SQL and NoSQL.
 2. What are primary key and foreign key?
 3. Difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN. 
@@ -20,3 +22,4 @@
 19. What is the difference between CHAR and VARCHAR?
 20. Write SQL query to find the second highest salary.
 21. Write SQL query to find the second lowest salary.
+22. what are the aggregate function and tell few of them.
